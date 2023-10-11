@@ -9,7 +9,7 @@ class Vote_PlaceN {
     }
 
     synchronized void id(String num, String name) {
-        System.out.println(Placename + "에서 주민번호 : " + num + ", 이름 : " + name + " 신분확인한다");
+        System.out.println(Placename + "에서 주민번호 : " + num + ", 이름 : " + name + " 신분확인합니다");
     }
 
     synchronized void vote(String num, String name) {
